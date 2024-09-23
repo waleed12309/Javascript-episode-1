@@ -19,5 +19,5 @@ const person={
 //dot notation
 console.log(person.gender)
 
-//bracket notation
+//bracket notationgit
 console.log(person["gender"])
